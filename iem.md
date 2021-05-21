@@ -36,4 +36,4 @@ Command Line service, sets the exit code and the HTTP status code, formats the r
 in XML or JSON format depending on the REST API request, and then sends it back to the
 caller.
 
-<img src="./img/iem.png" data-canonical-src="./img/iem.png" width="512" height="512" /> -->
+<img src="./img/iem.png" data-canonical-src="./img/iem.png" width="512" height="512" /> 

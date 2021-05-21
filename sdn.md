@@ -8,7 +8,7 @@ components, legacy networks are inundated with switching devices that decide on 
 route taken by each packet individually; moreover, the data paths and the decision-making
 processes for switching or routing are collocated on the same device
 
-<img src="./img/sdn.png" data-canonical-src="./img/sdn.png" width="512" height="512" /> -->
+<img src="./img/sdn.png" data-canonical-src="./img/sdn.png" width="512" height="512" />
 
 
 By implementing a new orchestration level, SDN can tackle the inflexibility and complexity
