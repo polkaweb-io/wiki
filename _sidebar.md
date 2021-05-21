@@ -12,6 +12,6 @@
 
 - [Integrated Execution Mechanism](iem.md "Integrated Execution Mechanism | polkaweb.io")
 
-- [Performance Identification Application](pia.md "erformance Identification Application | polkaweb.io")
+- [Performance Identification Application](pia.md "Performance Identification Application | polkaweb.io")
 
-- [conclusion](conclusion.md "conclusion | Polkaweb.io")
+- [Conclusion](conclusion.md "Conclusion | Polkaweb.io")
