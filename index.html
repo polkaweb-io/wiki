@@ -110,6 +110,16 @@
         padding-right: 7px;
         vertical-align: bottom;
       }
+      body .docsify-pagination-container {
+        border-width: 5px;
+        border-color: red;
+      }
+      body .pagination-item-label svg {
+        height: 1.5em;
+        stroke-linecap: square;
+        stroke-linejoin: square;
+        stroke-width: 3px;
+      }
     </style>
   </head>
   <body>
@@ -122,10 +132,18 @@
         auto2top: true,
         name: "",
         repo: "",
+        pagination: {
+          // previousText: "Previous",
+          // nextText: "Next",
+          crossChapter: true,
+          crossChapterText: true,
+        },
       };
     </script>
     <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
     <!-- Docsify v4 -->
+
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   </body>
 </html>
