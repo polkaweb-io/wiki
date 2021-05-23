@@ -1,4 +1,6 @@
-- [PolkaWeb - Introduction](README.md "Polkaweb Documentation")
+- [PolkaWeb - Introduction](/ "Polkaweb Documentation")
+
+<!-- - [PolkaWeb - Introduction](README.md "Polkaweb Documentation") -->
 
 - [Problem Statement](problem.md "Problem Statement By Polkaweb | polkaweb.io")
 
