@@ -11,8 +11,8 @@ Polkaweb surpasses the necessity of a central control for delivery & management 
 
 [<i class="fab fa-twitter fa-2x"></i> Twitter](https://twitter.com/polkaweb_io)
 
-[<i class="fab fa-medium fa-2x"></i> Medium](https://medium.com/@polkaweb)
+[<i class="fab fa-medium fa-2x"></i> Medium](https://polkaweb.medium.com/)
 
-[<i class="fab fa-telegram fa-2x"></i> Telegram](https://t.me/polkaweb)
+[<i class="fab fa-telegram fa-2x"></i> Telegram](https://t.me/polkaweb_io)
 
 [<i class="fa fa-envelope fa-2x"></i> Email us](mailto:info@polkaweb.io)
